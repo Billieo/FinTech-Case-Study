@@ -2,37 +2,43 @@
 
 ## Overview and Origin 
 
-*  Ripple is a privately enterprise blockchain company, they are a  digital payment processing system and cyprocurrency. 
+*  Ripple is a privately own enterprise blockchain company, it original started in 2011 under Ripplepa in 2012 Opencoin was created and in 2013 Open coin became Ripple Labs. Ripple currently has more than 300 financial instution on the RippleNet and operating on over 55+ countries.
  
-* It was incorported in 2012 and founded by Arthur Britto, chris Larsen and ryan Fugger. Ripple is in over 55 countries where their partner operates. [Ripple's Website](https://ripple.com/)
+* It was incorported in 2012 and founded by Chris Larsen and Jed McCaleb.  [Ripple's Website](https://ripple.com/)
 
-* Ripple idea came into arise from. 
- 
+* Ripple idea started from three developers who wanted to create distribution ledger that solves the restriction of Bitcoin
+
 * The company is funded by 36 inventors and has raised a total of $293.8m over 13 round in funding. Funding [Ripple funding information](https://www.crunchbase.com/organization/ripple-labs/company_financials)
 
 ## Business Activities 
-  Ripple is a decentralized peer to peer network. that business activities involes **RippleNet** and **XRP**
+* Ripple a digital payment processing system and cyprocurrency, which enable banks and financial institution transfer crossborder payment through the use of **RippleNet** and **XRP**
 
- - _RippleNet_ is a digital payment processing system that allows money to move at the speed of the internet. This is done by the use of the .RippleNet is [RippleNet](https://ripple.com/ripplenet)
+- _RippleNet_ is a digital payment processing system that allows money to move at the speed of the internet. This is done by the use of the .RippleNet is [RippleNet](https://ripple.com/ripplenet)
 
- - _XRP_ is ripple cyptocurreny, it is a digital asset that is use on the xrp ledger. It use on the on the blockchain technology. It has faster and and cheaper processing fee than other cyptocurreny in the domain. [XRP overvie](https://xrpl.org/overview.html)
+ - _XRP_ is ripple cyptocurreny, it is a digital asset that is use on the XRP ledger for liquid solution . It use on the on the blockchain technology. It has faster and and cheaper processing fee than other cyptocurreny in the domain. [XRP Overview](https://xrpl.org/overview.html)
  >> 
  
  ![alttext](image/chart.jpg)
 
-* Ripple solves the problem of Disparate, slow, error prone and costtly transfer of money. This is done by the of spreed and transparency around international payment by reducing the amount of days it takes to complete money transfer.The company intender user are Financial institution, banks  and payment provider accross the world.  
+* Ripple solves the problem of Disparate, slow, error prone and costtly transfer of money. This is done by the of spreed and transparency around international payment by reducing the amount of days it takes to complete money transfer.
 
-* The solution ripple offer that their competitior does not offer is the ability to transfer money without the middle man and 
+* The company intender users are Financial institution, banks  and payment provider accross the world, such as Bank of America, JP Morgan chase and chartard bank   
 
-* The market size of the set if customer ripple has.
-[Customer market size](https://www.publish0x.com/xrp-community/full-list-of-ripple-customers-20192020-update-xmjwkg)
+* The solution ripple offer that their competitior does not offer are the following:
+
+>> Ablity to transfer money without the middle man
+
+
+* The market size of the set of ripple customers range 
+
+[Customer market size](https://www.pu.publish0x.com/xrp-community/full-list-of-ripple-customers-20192020-update-xmjwkg)
 
 * The unfair advantage Ripple uses are the ability to use alternative liquid solution with ripple global network through the use of XRP Ledger and it digital asset to process payment accoss the world faster.
-  * Ripple has the faster speed of money transfer in the world which is at 4 seconds compared to other payment system or cyptocurency.
+  > Ripple has the faster speed of money transfer in the world which is at 4 seconds compared to other payment system or cyptocurency.
 
-  * Ripple is setup to exchange any currency mean that no matter what curreny you transfer that is always someone on the network
+  >Ripple is setup to exchange any currency mean that no matter what curreny you transfer that is always someone on the network
 
-  * ripple work with customer existing financial system
+  > ripple work with customer existing financial system
 
   [Ripple's Advantages](https://changelly.com/blog/invest-in-ripples-xrp-how-where-and-when/)
 
@@ -64,7 +70,13 @@
 
 ## Recomendations
 
-* my recommendation will be to 
+* My recommendation will be to expand and facilitate the payment processing system to the general public not just the banks and financial institution. 
+
+* By doing this they can actually maximize their revenue because a lot of the individual population uses Western union or MoneyGram.
+
+* They will have to use another form of identity validation system place to guide against fraud.
+
+* The identity validation system is what is current been use by other payment processing company in business. This is necessary because of the need to identify the receiver.
 
 
 Company Website [Ripple Website](https://ripple.com/)
