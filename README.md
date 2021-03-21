@@ -10,48 +10,48 @@
 
 * The company is funded by 36 inventors and has raised a total of $293.8m over 13 round in funding. Funding [Ripple funding information](https://www.crunchbase.com/organization/ripple-labs/company_financials)
 
-## Business Activities 
-* Ripple a digital payment processing system and cyprocurrency, which enable banks and financial institution transfer crossborder payment through the use of **RippleNet** and **XRP**
+## Ripple Business Activities 
 
-- _RippleNet_ is a digital payment processing system that allows money to move at the speed of the internet. This is done by the use of the .RippleNet is [RippleNet](https://ripple.com/ripplenet)
+* Ripple business activities is payment processing and cyprocurrency, which enable banks and financial institution to transfer cross-border payment through the use of _XRP_ on _Ripple network
 
- - _XRP_ is ripple cyptocurreny, it is a digital asset that is use on the XRP ledger for liquid solution . It use on the on the blockchain technology. It has faster and and cheaper processing fee than other cyptocurreny in the domain. [XRP Overview](https://xrpl.org/overview.html)
- >> 
- 
- ![alttext](image/chart.jpg)
+  > **RippleNet** is a digital payment processing system that allows money to move at the speed of the internet.[RippleNet Overview](https://ripple.com/ripplenet)
+
+  > **XRP** is ripple cyptocurreny is a digital asset that is use on the XRP ledger for alternative liquid solution. XRP uses consensus protocol, which all validated has to agree on before the transaction is valid. [XRP Overview](https://xrpl.org/overview.html)
+
+ ![alttext]()
 
 * Ripple solves the problem of Disparate, slow, error prone and costtly transfer of money. This is done by the of spreed and transparency around international payment by reducing the amount of days it takes to complete money transfer.
 
 * The company intender users are Financial institution, banks  and payment provider accross the world, such as Bank of America, JP Morgan chase and chartard bank   
 
-* The solution ripple offer that their competitior does not offer are the following:
-
->> Ablity to transfer money without the middle man
-
-
-* The market size of the set of ripple customers range 
-
 [Customer market size](https://www.pu.publish0x.com/xrp-community/full-list-of-ripple-customers-20192020-update-xmjwkg)
 
-* The unfair advantage Ripple uses are the ability to use alternative liquid solution with ripple global network through the use of XRP Ledger and it digital asset to process payment accoss the world faster.
+* The unfair advantage Ripple uses are following: 
+  > The ability to use alternative liquid solution with ripple global network through the use of XRP Ledger and it digital asset to process payment accoss the world.
+
   > Ripple has the faster speed of money transfer in the world which is at 4 seconds compared to other payment system or cyptocurency.
+  
+  > Ripple is setup to exchange any currency meaning that no matter what curreny is need there is always someone on the network that has it.
 
-  >Ripple is setup to exchange any currency mean that no matter what curreny you transfer that is always someone on the network
+  > Ablity to transfer money without the middle man.
 
-  > ripple work with customer existing financial system
+  > ripple work with customer existing financial system.
 
-  [Ripple's Advantages](https://changelly.com/blog/invest-in-ripples-xrp-how-where-and-when/)
+[Ripple's Advantages](https://changelly.com/blog/invest-in-ripples-xrp-how-where-and-when/)
 
-  ![alttext](image/advantages.png)
+![alttext](image/advantages.png)
 
-* Ripple use a blockchain technology
-* Ripple uses block chain 
+* The market size of the set of ripple's customers ranges mid banks to top major banks and financial institution like Bank of America with 2020 4th quarter at  $21.307 billion in revenue.
+
+[Ripple's customer](https://www.publish0x.com/xrp-community/full-list-of-ripple-customers-20192020-update-xmjwkg)
+
+* Ripple uses a blockchain technology along with "6 other tools that are intergrated with it and they are python,Go, C++, Rust, Blockchain and wagyu".
+[Technology Informaton](https://stackshare.io/ripple)
+
 
 ## Landscape 
 
 * Ripple is in the blockchain and crytocurreny domain of the financial industries  
-
-* What have been the major trends and innovations of this domain over the last 5-10 years?  
 
 * The major trends and innovation of this domain over the last five years are 
 
