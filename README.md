@@ -14,7 +14,7 @@
 
 * Ripple business activities is payment processing and cyprocurrency, which enable banks and financial institution to transfer cross-border payment through the use of _XRP_ on _Ripple network
 
-  > **RippleNet** is a digital payment processing system that allows money to move at the speed of the internet.[RippleNet Overview](https://ripple.com/ripplenet)
+  > **RippleNet** is a digital payment processing system that allows money to move at the speed of the internet. [RippleNet Overview](https://ripple.com/ripplenet)
 
   > **XRP** is ripple cyptocurreny is a digital asset that is use on the XRP ledger for alternative liquid solution. XRP uses consensus protocol, which all validated has to agree on before the transaction is valid. [XRP Overview](https://xrpl.org/overview.html)
 
@@ -43,7 +43,7 @@
 * The market size of the set of ripple's customers ranges mid banks to top major banks and financial institution like Bank of America with 2020 4th quarter at  $21.307 billion in revenue.
 [Ripple's customer](https://www.publish0x.com/xrp-community/full-list-of-ripple-customers-20192020-update-xmjwkg)
 
-* Ripple uses a blockchain technology along with "6 other tools that are intergrated with it and they are python,Go, C++, Rust, Blockchain and wagyu".[Technology Informaton](https://stackshare.io/ripple)
+* Ripple uses a blockchain technology along with "6 other tools that are intergrated with it and they are python,Go, C++, Rust, Blockchain and wagyu". [Technology Informaton](https://stackshare.io/ripple)
 
 ## Landscape 
 
@@ -55,12 +55,10 @@
 
 ## Results 
 
-* Ripple has impacted the business by unlocking economic barriers and this is done by the use of digital assest and distributed ledger technology, to reach bank and unbanked population world wide 
+* Ripple has impacted the business by unlocking economic barriers and this is done by the use of digital assest and distributed ledger technology, to reach bank and unbanked population world wide.
 
-* The core metrics are measured in this domain by the number of processed transaction at the speed which they processed and finalized, peer to peer subsytem matric, which we can say as the traffic.[performace matrix](https://hackernoon.com/how-to-measure-blockchain-network-performance-key-metrics-en1234u4)
+* The core metrics are measured in this domain by the number of processed transaction at the speed which they processed and finalized, peer to peer subsytem matric, which we can say as the traffic. [performace matrix](https://hackernoon.com/how-to-measure-blockchain-network-performance-key-metrics-en1234u4)
 * Base on the performance metrix Ripples has the fastest payment processing time in the world  at about 3 - 4 seconds per transaction, therefore we can say they are perform better than their competitors in this area.
-
-* ripple is perfoming 
 
 ## Recomendations
 
