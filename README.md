@@ -4,7 +4,7 @@
 
 *  Ripple is a privately own enterprise blockchain company, it original started in 2011 under Ripplepa in 2012 Opencoin was created and in 2013 Open coin became Ripple Labs. Ripple currently has more than 300 financial instution on the RippleNet and operating on over 55+ countries.
  
-* It was incorported in 2012 and founded by Chris Larsen and Jed McCaleb.  [Ripple's Website](https://ripple.com/)
+* It was incorported in 2012 and founded by Chris Larsen and Jed McCaleb. [Ripple's Website](https://ripple.com/)
 
 * Ripple idea started from three developers who wanted to create distribution ledger that solves the restriction of Bitcoin
 
@@ -18,13 +18,12 @@
 
   > **XRP** is ripple cyptocurreny is a digital asset that is use on the XRP ledger for alternative liquid solution. XRP uses consensus protocol, which all validated has to agree on before the transaction is valid. [XRP Overview](https://xrpl.org/overview.html)
 
- ![alttext]()
+ ![alttext](image/process.png)
 
 * Ripple solves the problem of Disparate, slow, error prone and costtly transfer of money. This is done by the of spreed and transparency around international payment by reducing the amount of days it takes to complete money transfer.
 
-* The company intender users are Financial institution, banks  and payment provider accross the world, such as Bank of America, JP Morgan chase and chartard bank   
+* The company intender users are Financial institution, banks  and payment provider accross the world, such as Bank of America, JP Morgan chase and chartered Bank. 
 
-[Customer market size](https://www.pu.publish0x.com/xrp-community/full-list-of-ripple-customers-20192020-update-xmjwkg)
 
 * The unfair advantage Ripple uses are following: 
   > The ability to use alternative liquid solution with ripple global network through the use of XRP Ledger and it digital asset to process payment accoss the world.
@@ -42,29 +41,24 @@
 ![alttext](image/advantages.png)
 
 * The market size of the set of ripple's customers ranges mid banks to top major banks and financial institution like Bank of America with 2020 4th quarter at  $21.307 billion in revenue.
-
 [Ripple's customer](https://www.publish0x.com/xrp-community/full-list-of-ripple-customers-20192020-update-xmjwkg)
 
-* Ripple uses a blockchain technology along with "6 other tools that are intergrated with it and they are python,Go, C++, Rust, Blockchain and wagyu".
-[Technology Informaton](https://stackshare.io/ripple)
-
+* Ripple uses a blockchain technology along with "6 other tools that are intergrated with it and they are python,Go, C++, Rust, Blockchain and wagyu".[Technology Informaton](https://stackshare.io/ripple)
 
 ## Landscape 
 
-* Ripple is in the blockchain and crytocurreny domain of the financial industries  
+* Ripple is in the blockchain and crytocurreny domain of the financial industries.
 
 * The major trends and innovation of this domain over the last five years are 
 
 * Major companys in the same domain as Ripple are Bitcoin, Ethereum,coinbase and Dogecoin [Ripple's Competitors](https://www.owler.com/company/ripple)
 
-
 ## Results 
 
 * Ripple has impacted the business by unlocking economic barriers and this is done by the use of digital assest and distributed ledger technology, to reach bank and unbanked population world wide 
 
-* The core metrics to measure success in this domain are 
-
- and base on the metric, Ripple is performing 
+* The core metrics are measured in this domain by the number of processed transaction at the speed which they processed and finalized, peer to peer subsytem matric, which we can say as the traffic.[performace matrix](https://hackernoon.com/how-to-measure-blockchain-network-performance-key-metrics-en1234u4)
+* Base on the performance metrix Ripples has the fastest payment processing time in the world  at about 3 - 4 seconds per transaction, therefore we can say they are perform better than their competitors in this area.
 
 * ripple is perfoming 
 
