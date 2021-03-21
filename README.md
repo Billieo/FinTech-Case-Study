@@ -82,7 +82,7 @@ Funding [Ripple funding information](https://www.crunchbase.com/organization/rip
 
 what to know about Ripple  [more info about ripple](https://www.coindesk.com/10-things-you-need-to-know-about-ripple)
 
-https://www.bitcoinmarketjournal.com/analysis/xrp/ripple/
+Blockchain Investor Analysis [Additional information](https://www.bitcoinmarketjournal.com/analysis/xrp/ripple/)
  
 Rippple's Advantages [Ripple's Advantages](https://changelly.com/blog/invest-in-ripples-xrp-how-where-and-when/)
 
