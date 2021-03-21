@@ -18,7 +18,7 @@
 
   > **XRP** is ripple cyptocurreny is a digital asset that is use on the XRP ledger for alternative liquid solution. XRP uses consensus protocol, which all validated has to agree on before the transaction is valid. [XRP Overview](https://xrpl.org/overview.html)
 
- ![alttext](image/process.png)
+ ![alttext](image/Rpchart.jpg)
 
 * Ripple solves the problem of Disparate, slow, error prone and costtly transfer of money. This is done by the of spreed and transparency around international payment by reducing the amount of days it takes to complete money transfer.
 
@@ -40,7 +40,7 @@
 
 ![alttext](image/advantages.png)
 
-* The market size of the set of ripple's customers ranges mid banks to top major banks and financial institution like Bank of America with 2020 4th quarter at  $21.307 billion in revenue.
+* The market size of the set of ripple's customers ranges from mid banks to top major banks and financial institution like Bank of America with 2020 4th quarter at $21.307 billion in revenue.
 [Ripple's customer](https://www.publish0x.com/xrp-community/full-list-of-ripple-customers-20192020-update-xmjwkg)
 
 * Ripple uses a blockchain technology along with "6 other tools that are intergrated with it and they are python,Go, C++, Rust, Blockchain and wagyu". [Technology Informaton](https://stackshare.io/ripple)
@@ -49,7 +49,15 @@
 
 * Ripple is in the blockchain and crytocurreny domain of the financial industries.
 
-* The major trends and innovation of this domain over the last five years are 
+* The major trends and innovation of this domain over the last 5 to 10 years are the following:
+
+  > The domain managed to rollout blockchain-based to facilitate the movement of money across the border partnering with financial institution.
+ 
+  > Base on research, Blockchain innovation will allow the financial instution and investment banks to save up to $10 billion using blockchain technology.
+
+  > In addition, XRP cryptocurrency reflect the numbers of partner banks using Ripple payment systems,and back in 2016, they signed some contracts with about 20 banks triggering the XRP price to increase by 200%.
+
+
 
 * Major companys in the same domain as Ripple are Bitcoin, Ethereum,coinbase and Dogecoin [Ripple's Competitors](https://www.owler.com/company/ripple)
 
@@ -58,6 +66,7 @@
 * Ripple has impacted the business by unlocking economic barriers and this is done by the use of digital assest and distributed ledger technology, to reach bank and unbanked population world wide.
 
 * The core metrics are measured in this domain by the number of processed transaction at the speed which they processed and finalized, peer to peer subsytem matric, which we can say as the traffic. [performace matrix](https://hackernoon.com/how-to-measure-blockchain-network-performance-key-metrics-en1234u4)
+
 * Base on the performance metrix Ripples has the fastest payment processing time in the world  at about 3 - 4 seconds per transaction, therefore we can say they are perform better than their competitors in this area.
 
 ## Recomendations
@@ -66,7 +75,7 @@
 
 * By doing this they can actually maximize their revenue because a lot of the individual population uses Western union or MoneyGram.
 
-* They will have to use another form of identity validation system place to guide against fraud.
+* They will have to use another form of identity validation system in place to guide against fraud.
 
 * The identity validation system is what is current been use by other payment processing company in business. This is necessary because of the need to identify the receiver.
 
@@ -80,11 +89,15 @@ what to know about Ripple  [more info about ripple](https://www.coindesk.com/10-
 https://www.bitcoinmarketjournal.com/analysis/xrp/ripple/
  
 Rippple's Advantages [Ripple's Advantages](https://changelly.com/blog/invest-in-ripples-xrp-how-where-and-when/)
-https://xrpl.org/overview.html
 
+XRP Ledger overview [XRP ledger](https://xrpl.org/overview.html)
 
+Trends and innovation [Innovation](https://changelly.com/blog/ripple-xrp-price-prediction/)
 
+Blockchain domain performance matric [performace matrix](https://hackernoon.com/how-to-measure-blockchain-network-performance-key-metrics-en1234u4)
 
+Trends and innovation 
 
+[Blockchain Innovation](https://www.wowso.me/blog/technology-in-banking#2)
 
-
+[Blockchain Innovation](https://changelly.com/blog/ripple-xrp-price-prediction/)
